@@ -2,7 +2,7 @@
 
 # [react]-expense-tracker
 
-Простое **react**-приложение блокнот доходов и расходов. Практика работы с _react_, _context_ и _hooks_. Смлтреть на [codesandbox.io](https://di9qv.csb.app/).
+Простое **react**-приложение блокнот доходов и расходов. Практика работы с _react_, _context_ и _hooks_. Смотреть на [codesandbox.io](https://di9qv.csb.app/).
 
 ### Быстрый старт
 
